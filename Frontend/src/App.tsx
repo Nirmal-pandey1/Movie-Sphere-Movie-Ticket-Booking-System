@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1 className="text-amber-100">hello </h1>
+      <h1>just some basic git check</h1>
        <Slider
       defaultValue={40}
       min={10}
